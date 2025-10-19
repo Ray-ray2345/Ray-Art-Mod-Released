@@ -1,0 +1,36 @@
+{
+ "name": "Ray美化1.2.0",
+ "version": "1.1.0",
+ "styleFileList": [],
+ "scriptFileList_earlyload": [
+  "earlyload.js"
+ ],
+ "scriptFileList_inject_early": [
+  "SimpleCryptWrapper.js"
+ ],
+ "scriptFileList_preload": [],
+ "scriptFileList": [],
+ "tweeFileList": [],
+ "imgFileList": [],
+ "imgFileReplaceList": [],
+ "additionFile": [
+  "README.md",
+  "passwordHintFile.txt"
+ ],
+ "additionBinaryFile": [
+  "Ray美化.zip.crypt",
+  "Ray美化.zip.salt",
+  "Ray美化.zip.nonce"
+ ],
+ "addonPlugin": [],
+ "dependenceInfo": [
+  {
+   "modName": "ModLoader",
+   "version": "^2.5.1"
+  },
+  {
+   "modName": "SweetAlert2Mod",
+   "version": "^1.0.0"
+  }
+ ]
+}
